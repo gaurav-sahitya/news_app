@@ -2,3 +2,9 @@
     max-height: 21rem;
     object-fit: cover;
 }
+
+.svg{
+    width: 1.5em;
+    height: 1.5em;
+    margin-bottom: -0.7rem;
+}
